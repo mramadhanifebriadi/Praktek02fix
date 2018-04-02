@@ -2,6 +2,11 @@ package praktek02fix;
 public class jajargenjang {
     double alas;
     double tinggi;
+
+    public jajargenjang() {
+        alas=4;
+        tinggi=4;
+    }
     
     void cetakInfo(){
         System.out.println("====wkwk==NGITUNG LUAS JAJARGENJANG==wkwk====");
