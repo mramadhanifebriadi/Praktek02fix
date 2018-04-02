@@ -9,4 +9,10 @@ public class jajargenjang {
         System.out.println("TINGGI NA SABARAHA? :"+tinggi);
         System.out.println("====hmmmmm====oke====hmmmmm======");
     }
+    
+    double hitungLuas(){
+        double luas;
+        luas=alas*tinggi;
+        return luas;
+    }
 }
