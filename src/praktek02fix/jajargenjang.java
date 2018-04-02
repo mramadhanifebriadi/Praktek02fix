@@ -1,14 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package praktek02fix;
-
-/**
- *
- * @author Asus x441BA
- */
 public class jajargenjang {
+    double alas;
+    double tinggi;
     
+    void cetakInfo(){
+        System.out.println("====wkwk==NGITUNG LUAS JAJARGENJANG==wkwk====");
+        System.out.println("ALAS NA SABARAHA? :"+alas);
+        System.out.println("TINGGI NA SABARAHA? :"+tinggi);
+        System.out.println("====hmmmmm====oke====hmmmmm======");
+    }
 }
