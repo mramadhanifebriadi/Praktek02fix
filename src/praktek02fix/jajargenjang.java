@@ -7,6 +7,12 @@ public class jajargenjang {
         alas=4;
         tinggi=4;
     }
+
+    public jajargenjang(double alas, double tinggi) {
+        this.alas = alas;
+        this.tinggi = tinggi;
+    }
+    
     
     void cetakInfo(){
         System.out.println("====wkwk==NGITUNG LUAS JAJARGENJANG==wkwk====");
