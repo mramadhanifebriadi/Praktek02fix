@@ -5,9 +5,11 @@ public class jajargenjangAksi {
         jajargenjang j1 = new jajargenjang();
         j1.alas = 5;
         j1.tinggi =5;
-        
+       
         j1.cetakInfo();
-        System.out.println("Luas Jajargenjang nya = "+j1.hitungLuas());
+        System.out.println("Luas Jajargenjang ="+j1.hitungLuas());
+        j1.cetakLuas();
+        
     }
     
 }

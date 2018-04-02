@@ -15,4 +15,8 @@ public class jajargenjang {
         luas=alas*tinggi;
         return luas;
     }
+    
+     void cetakLuas(){
+        System.out.println("Luasnya adalah= "+hitungLuas());
+    }  
 }
